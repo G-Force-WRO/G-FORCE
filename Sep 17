@@ -1,4 +1,5 @@
-
+// note: This code is supposed to work in the open round. Right now, it is not working. The bot is only moving forward and not turning - 
+// I suspect that ultrasonic sensor 2 is incorrect. I will resolder a new one tomorrow and edit the code more.
 
 
 
