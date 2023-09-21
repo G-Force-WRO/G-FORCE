@@ -4,11 +4,11 @@
 In this repository, you can find all the files from our documentation. Look at our branch and open files to see robot photos, team photos, 3D models, etc.
 
 ## File description 
-On 'Our Photos', we have two photos of our team: Chill, and Official
-The file 'Code' has the code for 'Round 1' and 'Round 2'
-The file '3D models' has the CAD design for all parts of the robot and an assembled CAD of the entire robot
-'Schematic Diagrams' is a file that displays the wiring in the file 'Electric Diagram' and displays the mechanical system in the file 'Mechanical Diagram'
-'Robots Photos' is a file consisting of the pictures of the robot from all angles
+##### On 'Our Photos', we have two photos of our team: Chill, and Official
+##### The file 'Code' has the code for 'Round 1' and 'Round 2'
+##### The file '3D models' has the CAD design for all parts of the robot and an assembled CAD of the entire robot
+##### 'Schematic Diagrams' is a file that displays the wiring in the file 'Electric Diagram' and displays the mechanical system in the file 'Mechanical Diagram'
+##### 'Robots Photos' is a file consisting of the pictures of the robot from all angles
 
 
 
